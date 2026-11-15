@@ -9,3 +9,8 @@ or either of these files:
 
 See <https://openjdk.java.net/> for more information about
 the OpenJDK Community and the JDK.
+
+## HVJDK
+
+hi this is the HVJDK fork of OpenJDK 17+35
+check our builds at [releases](https://github.com/hvidk/hvjdk/releases/latest)!
